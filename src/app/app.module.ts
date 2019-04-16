@@ -1,3 +1,4 @@
+// BrowserModule is actually what exposes our ngIf and ngFor directives to components declared in our @ngModule
 import { BrowserModule } from "@angular/platform-browser";
 import { NgModule } from "@angular/core";
 import { FormsModule } from "@angular/forms";
